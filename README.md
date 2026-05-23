@@ -43,7 +43,7 @@ Streamlit Dashboard（監視結果可視化）
 
 ## デモ
 
-[Streamlit Dashboard URL]（審査員用パスワードは提出フォームに記載）
+[[Streamlit Dashboard URL](https://koujisoutatsuwatcher-elw8qkngsocn9xyvcqkkmr.streamlit.app/)]（審査員用パスワードは提出フォームに記載）
 
 ---
 
